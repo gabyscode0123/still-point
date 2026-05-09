@@ -1,9 +1,3 @@
-# Stillpoint
-
-Stillpoint is a Flutter wellness-tracking app that helps users notice the relationship between daily habits and how they feel.
-
-The app turns daily check-ins into calm, visual summaries: a wellness score, recent check-ins, mood and stress patterns, a sleep and mood relationship graph, and a time-use breakdown. It uses a soft Japandi-inspired palette with accessible contrast and intentionally simple language.
-
 ## Features
 
 - Daily check-ins for sleep, mood, stress, focus, screen time, exercise, and social time
